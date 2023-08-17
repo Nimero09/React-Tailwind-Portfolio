@@ -4,11 +4,8 @@ import CSS from '../assets/css.png';
 import Javascript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png'
-import Firebase from '../assets/firebase.png';
-import AWS from '../assets/aws.png';
 import Github from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-import Mongo from '../assets/mongo.png';
 import MySql from '../assets/mysql.png';
 
 const Skills = () => {
